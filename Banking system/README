@@ -1,0 +1,10 @@
+simulation d'un logiciel de banque, les actions suivantes sont disponibles : 
+
+  - Créer un nouveau compte 
+  - Lister les comptes existants 
+  - Chercher un compte
+  - Faire un virement
+  - Faire un retrait
+  - Faire un dépot 
+  
+Toutes les saisies sont sécurisées, les données sont stoquées dans un fichier binaire, une validation est demandée avant chaque action
