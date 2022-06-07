@@ -8,3 +8,7 @@ simulation d'un logiciel de banque, les actions suivantes sont disponibles :
   - Faire un dépot 
   
 Toutes les saisies sont sécurisées, les données sont stoquées dans un fichier binaire, une validation est demandée avant chaque action
+
+
+code by Gilles Maurer
+Programming and Data Structure
