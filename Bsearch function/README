@@ -1,0 +1,10 @@
+Implémentation complète la fonction Bsearch disponible dans les librairies c classiques 
+  
+Quelques test sont également disponibles pour vérifier le fonctionnement de la fonction
+
+Les tests sont implémenté pour les types int, float et struct Person mais la fonction bsearch peut marché avec n'importe quel type. 
+
+----------------------------------------------
+
+code by Gilles Maurer 
+Programming and Data Structure
